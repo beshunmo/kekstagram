@@ -1,0 +1,18 @@
+{
+  "name": "kekstagram",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Владимир Хван",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-htmlacademy": "^0.3.2"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.10"
+  }
+}
